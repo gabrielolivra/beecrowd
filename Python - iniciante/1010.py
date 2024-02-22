@@ -1,0 +1,10 @@
+code, numero, valor = input().split()
+code2, numero2, valor2 = input().split()
+code = int(code)
+numero = int(numero)
+valor = float(valor)
+code2= int(code2)
+numero2 = int(numero2)
+valor2 = float(valor2)
+resultado = numero*valor + numero2*valor2
+print("VALOR A PAGAR: R$ {:.2f}".format(resultado))
