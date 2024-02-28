@@ -32,5 +32,3 @@ for i in range(qtd):
         print('Sem ganhador')
     else:
         jogo(jogador1, jogador2)
-
-
