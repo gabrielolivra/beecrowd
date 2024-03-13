@@ -14,4 +14,3 @@ if qtd_jhon >= qtd_doc:
 else:
     print('no')
     
-        
